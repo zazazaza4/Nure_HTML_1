@@ -5,4 +5,4 @@
 Головна сторінка
 ![main page](./images/1.PNG)
 Перехід на відносне гіперпосилання
-![another page](./images/1.PNG)
+![another page](./images/2.PNG)
